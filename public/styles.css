@@ -159,6 +159,14 @@ button:disabled {
   margin: 0 0 18px;
 }
 
+.admin-login {
+  display: grid;
+  grid-template-columns: minmax(180px, 320px) auto minmax(0, 1fr);
+  gap: 12px;
+  align-items: end;
+  margin: 0 0 18px;
+}
+
 .file-button {
   display: inline-flex;
   align-items: center;
@@ -256,7 +264,8 @@ select:focus {
   }
 
   .admin-row,
-  .field-stack {
+  .field-stack,
+  .admin-login {
     grid-template-columns: 1fr;
   }
 

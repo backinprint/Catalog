@@ -1,5 +1,33 @@
 const adminList = document.querySelector("#adminList");
 const adminEmpty = document.querySelector("#adminEmpty");
+const adminContent = document.querySelector("#adminContent");
+const adminLogin = document.querySelector("#adminLogin");
+const adminPassword = document.querySelector("#adminPassword");
+const loginStatus = document.querySelector("#loginStatus");
+const ADMIN_PASSWORD = "Bear";
+const ADMIN_AUTH_KEY = "jn21AdminAuthed";
+
+function unlockAdmin() {
+  adminLogin.hidden = true;
+  adminContent.hidden = false;
+  loadAdmin().catch(() => {
+    adminEmpty.hidden = false;
+    adminEmpty.textContent = "Could not load admin data.";
+  });
+}
+
+adminLogin.addEventListener("submit", (event) => {
+  event.preventDefault();
+  if (adminPassword.value === ADMIN_PASSWORD) {
+    sessionStorage.setItem(ADMIN_AUTH_KEY, "true");
+    unlockAdmin();
+    return;
+  }
+
+  loginStatus.textContent = "Incorrect password";
+  adminPassword.value = "";
+  adminPassword.focus();
+});
 
 async function loadAdmin() {
   if (window.location.protocol === "file:") {
@@ -79,7 +107,8 @@ function escapeHtml(value) {
     .replaceAll("'", "&#039;");
 }
 
-loadAdmin().catch(() => {
-  adminEmpty.hidden = false;
-  adminEmpty.textContent = "Could not load admin data. Run .\\start.ps1, then open http://localhost:3000/admin.html.";
-});
+if (sessionStorage.getItem(ADMIN_AUTH_KEY) === "true") {
+  unlockAdmin();
+} else {
+  adminPassword.focus();
+}

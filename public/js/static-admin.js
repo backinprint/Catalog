@@ -1,8 +1,33 @@
 const adminList = document.querySelector("#adminList");
 const adminEmpty = document.querySelector("#adminEmpty");
+const adminContent = document.querySelector("#adminContent");
+const adminLogin = document.querySelector("#adminLogin");
+const adminPassword = document.querySelector("#adminPassword");
+const loginStatus = document.querySelector("#loginStatus");
 const adminStatus = document.querySelector("#adminStatus");
 const exportCsv = document.querySelector("#exportCsv");
 const importCsv = document.querySelector("#importCsv");
+const ADMIN_PASSWORD = "Bear";
+const ADMIN_AUTH_KEY = "jn21AdminAuthed";
+
+function unlockAdmin() {
+  adminLogin.hidden = true;
+  adminContent.hidden = false;
+  renderAdmin();
+}
+
+adminLogin.addEventListener("submit", (event) => {
+  event.preventDefault();
+  if (adminPassword.value === ADMIN_PASSWORD) {
+    sessionStorage.setItem(ADMIN_AUTH_KEY, "true");
+    unlockAdmin();
+    return;
+  }
+
+  loginStatus.textContent = "Incorrect password";
+  adminPassword.value = "";
+  adminPassword.focus();
+});
 
 function escapeHtml(value) {
   return String(value || "")
@@ -85,4 +110,8 @@ importCsv.addEventListener("change", async () => {
   importCsv.value = "";
 });
 
-renderAdmin();
+if (sessionStorage.getItem(ADMIN_AUTH_KEY) === "true") {
+  unlockAdmin();
+} else {
+  adminPassword.focus();
+}

@@ -16,8 +16,18 @@
     </header>
 
     <main class="shell">
-      <section id="adminList" class="admin-list" aria-live="polite"></section>
-      <p id="adminEmpty" class="empty-state" hidden>No photos found in 01_ITEM_PHOTOS.</p>
+      <form id="adminLogin" class="admin-login">
+        <label>
+          <span>Password</span>
+          <input id="adminPassword" type="password" autocomplete="current-password">
+        </label>
+        <button type="submit">Enter</button>
+        <span id="loginStatus" class="save-state" role="status"></span>
+      </form>
+      <div id="adminContent" hidden>
+        <section id="adminList" class="admin-list" aria-live="polite"></section>
+        <p id="adminEmpty" class="empty-state" hidden>No photos found in 01_ITEM_PHOTOS.</p>
+      </div>
     </main>
 
     <script src="/js/admin.js"></script>
