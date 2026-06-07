@@ -1,0 +1,9 @@
+data/
+server.err.log
+server.out.log
+public/generated/
+node_modules/
+github-upload/
+JN21-github-upload.zip
+.DS_Store
+Thumbs.db

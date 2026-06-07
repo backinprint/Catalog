@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Product Gallery</title>
+    <link rel="stylesheet" href="public/styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">Product Catalog</p>
+        <h1>JN21</h1>
+      </div>
+      <a class="admin-link" href="admin.html">Admin</a>
+    </header>
+
+    <main class="shell">
+      <div class="catalog-toolbar">
+        <label class="sort-control">
+          <span>Sort</span>
+          <select id="sortSelect" aria-label="Sort products">
+            <option value="name">Name A-Z</option>
+            <option value="price-asc">Price low to high</option>
+            <option value="price-desc">Price high to low</option>
+          </select>
+        </label>
+      </div>
+      <section id="productGrid" class="product-grid" aria-live="polite"></section>
+      <p id="emptyState" class="empty-state" hidden>No products found.</p>
+    </main>
+
+    <footer class="site-footer">Authorized Seller</footer>
+
+    <script src="public/js/photo-manifest.js"></script>
+    <script src="public/js/products-data.js"></script>
+    <script src="public/js/static-store.js"></script>
+    <script src="public/js/static-gallery.js"></script>
+  </body>
+</html>
