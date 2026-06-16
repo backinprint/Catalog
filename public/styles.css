@@ -137,6 +137,9 @@ button:disabled {
 }
 
 .site-footer {
+  display: grid;
+  justify-items: center;
+  gap: 8px;
   padding: 22px clamp(18px, 4vw, 52px);
   border-top: 1px solid var(--line);
   color: var(--muted);
@@ -144,6 +147,14 @@ button:disabled {
   font-size: 0.9rem;
   font-weight: 700;
   text-align: center;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+.footer-admin-link {
+  margin-top: 8px;
 }
 
 .admin-list {
