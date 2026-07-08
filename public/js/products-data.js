@@ -19,6 +19,21 @@
     "itemNumber": "C003",
     "itemPrice": "25"
   },
+  "C005M_Seal_Hatchling.jpg": {
+    "itemName": "Seal Hatchling",
+    "itemNumber": "C005M",
+    "itemPrice": "2"
+  },
+  "C006M_Duck Hatchling.jpg": {
+    "itemName": "Duck Hatchling",
+    "itemNumber": "C006M",
+    "itemPrice": "2"
+  },
+  "C011M_Frog_Hatchlng.jpg": {
+    "itemName": "Frog Hatchling",
+    "itemNumber": "C011M",
+    "itemPrice": "2"
+  },
   "C012_Quackodile.jpg": {
     "itemName": "Quackodile",
     "itemNumber": "C012",
@@ -29,6 +44,16 @@
     "itemNumber": "C018",
     "itemPrice": "1"
   },
+  "C021.80_Tiny_Cardinal.jpg": {
+    "itemName": "Tiny Cardinal",
+    "itemNumber": "C021.80",
+    "itemPrice": "15"
+  },
+  "C023M_Tiny Bear.jpg": {
+    "itemName": "Tiny Bear",
+    "itemNumber": "C023M",
+    "itemPrice": "15"
+  },
   "C024_Guinea_Pig.jpg": {
     "itemName": "Guinea Pig",
     "itemNumber": "C024",
@@ -38,6 +63,26 @@
     "itemName": "Ice Cream Narwhal",
     "itemNumber": "C025",
     "itemPrice": "2"
+  },
+  "C030.80_USA Eagle.jpg": {
+    "itemName": "USA Eagle",
+    "itemNumber": "C030.80",
+    "itemPrice": "5"
+  },
+  "C032.70_Tiny_Wolf.jpg": {
+    "itemName": "Tiny Wolf",
+    "itemNumber": "C032.70",
+    "itemPrice": "5-8"
+  },
+  "C035M_Rottweiler_Hatchling.jpg": {
+    "itemName": "Rottweiler Hatchling",
+    "itemNumber": "C035M",
+    "itemPrice": "2"
+  },
+  "C038M_Tiny_Crystal_Wolf.jpg": {
+    "itemName": "Tiny Crystal Wolf",
+    "itemNumber": "C038M",
+    "itemPrice": "5-15"
   },
   "C103_Fire_Dragon_Hatchling.jpg": {
     "itemName": "Fire Dragon Hatchling",
@@ -64,6 +109,11 @@
     "itemNumber": "C108",
     "itemPrice": "25"
   },
+  "C110_Baby_Ocean_Dragon.jpg": {
+    "itemName": "Baby Ocean Dragon",
+    "itemNumber": "C110",
+    "itemPrice": "20"
+  },
   "C113_Phoenix_Dragon.jpg": {
     "itemName": "Phoenix Dragon",
     "itemNumber": "C113",
@@ -73,6 +123,21 @@
     "itemName": "Dragon Hatchling",
     "itemNumber": "C115",
     "itemPrice": "2"
+  },
+  "C120_Jellyfish_Tadling.jpg": {
+    "itemName": "Jellyfish Tadling",
+    "itemNumber": "C120",
+    "itemPrice": "5"
+  },
+  "C309_Pumpkin_Egg.jpg": {
+    "itemName": "Pumpkin Egg",
+    "itemNumber": "C309",
+    "itemPrice": "8"
+  },
+  "C310_Pumpkin.jpg": {
+    "itemName": "Pumpkin",
+    "itemNumber": "C310",
+    "itemPrice": "10"
   },
   "K001_World_Cup_Trophy_Clicker.jpg": {
     "itemName": "World Cup Trophy Clicker",
