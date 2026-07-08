@@ -1,4 +1,4 @@
-﻿window.PRODUCT_DATA = {
+window.PRODUCT_DATA = {
   "C0004_Cowboy_Frog.jpg": {
     "itemName": "Cowboy Frog",
     "itemNumber": "C0004",
