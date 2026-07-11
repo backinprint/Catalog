@@ -14,7 +14,7 @@ window.PRODUCT_DATA = {
     "itemNumber": "C002M",
     "itemPrice": "2"
   },
-  "C003_Cowboy_Crab.jpg": {
+  "C003_Cowboy_Crab.png": {
     "itemName": "Cowboy Crab",
     "itemNumber": "C003",
     "itemPrice": "25"
@@ -24,12 +24,12 @@ window.PRODUCT_DATA = {
     "itemNumber": "C005M",
     "itemPrice": "2"
   },
-  "C006M_Duck Hatchling.jpg": {
+  "C006M_Duck Hatchling.png": {
     "itemName": "Duck Hatchling",
     "itemNumber": "C006M",
     "itemPrice": "2"
   },
-  "C011M_Frog_Hatchlng.jpg": {
+  "C011M_Frog_Hatchlng.png": {
     "itemName": "Frog Hatchling",
     "itemNumber": "C011M",
     "itemPrice": "2"
@@ -44,17 +44,17 @@ window.PRODUCT_DATA = {
     "itemNumber": "C018",
     "itemPrice": "1"
   },
-  "C021.80_Tiny_Cardinal.jpg": {
+  "C021.80_Tiny_Cardinal.png": {
     "itemName": "Tiny Cardinal",
     "itemNumber": "C021.80",
     "itemPrice": "15"
   },
-  "C023M_Tiny Bear.jpg": {
+  "C023M_Tiny Bear.png": {
     "itemName": "Tiny Bear",
     "itemNumber": "C023M",
     "itemPrice": "15"
   },
-  "C024_Guinea_Pig.jpg": {
+  "C024_Guinea_Pig.png": {
     "itemName": "Guinea Pig",
     "itemNumber": "C024",
     "itemPrice": "2"
@@ -64,12 +64,12 @@ window.PRODUCT_DATA = {
     "itemNumber": "C025",
     "itemPrice": "2"
   },
-  "C030.80_USA Eagle.jpg": {
+  "C030.80_USA_Eagle.png": {
     "itemName": "USA Eagle",
     "itemNumber": "C030.80",
     "itemPrice": "5"
   },
-  "C032.70_Tiny_Wolf.jpg": {
+  "C032.70_Tiny_Wolf.png": {
     "itemName": "Tiny Wolf",
     "itemNumber": "C032.70",
     "itemPrice": "5-8"
@@ -79,7 +79,7 @@ window.PRODUCT_DATA = {
     "itemNumber": "C035M",
     "itemPrice": "2"
   },
-  "C038M_Tiny_Crystal_Wolf.jpg": {
+  "C038M_Tiny_Crystal_Wolf.png": {
     "itemName": "Tiny Crystal Wolf",
     "itemNumber": "C038M",
     "itemPrice": "5-15"
