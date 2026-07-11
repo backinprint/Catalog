@@ -1,15 +1,15 @@
 window.PRODUCT_DATA = {
-  "C0004_Cowboy_Frog.jpg": {
+  "C0004_Cowboy_Frog.png": {
     "itemName": "Cowboy Frog",
     "itemNumber": "C0004",
     "itemPrice": "15"
   },
-  "C001_Hammerhead.jpg": {
+  "C001_Hammerhead.png": {
     "itemName": "Hammerhead",
     "itemNumber": "C001",
     "itemPrice": "10"
   },
-  "C002M_Lizard_Hatchling.jpg": {
+  "C002M_Lizard_Hatchling.png": {
     "itemName": "Lizard Hatchling",
     "itemNumber": "C002M",
     "itemPrice": "2"
@@ -19,7 +19,7 @@ window.PRODUCT_DATA = {
     "itemNumber": "C003",
     "itemPrice": "25"
   },
-  "C005M_Seal_Hatchling.jpg": {
+  "C005M_Seal_Hatchling.png": {
     "itemName": "Seal Hatchling",
     "itemNumber": "C005M",
     "itemPrice": "2"
@@ -59,7 +59,7 @@ window.PRODUCT_DATA = {
     "itemNumber": "C024",
     "itemPrice": "2"
   },
-  "C025_Ice_Cream_Narwhal.jpg": {
+  "C025_Ice_Cream_Narwhal.png": {
     "itemName": "Ice Cream Narwhal",
     "itemNumber": "C025",
     "itemPrice": "2"
@@ -104,22 +104,22 @@ window.PRODUCT_DATA = {
     "itemNumber": "C107",
     "itemPrice": "3"
   },
-  "C108_Crystal_Dragon.jpg": {
+  "C108_Crystal_Dragon.png": {
     "itemName": "Crystal Dragon",
     "itemNumber": "C108",
     "itemPrice": "25"
   },
-  "C110_Baby_Ocean_Dragon.jpg": {
+  "C110_Baby_Ocean_Dragon.png": {
     "itemName": "Baby Ocean Dragon",
     "itemNumber": "C110",
     "itemPrice": "20"
   },
-  "C113_Phoenix_Dragon.jpg": {
+  "C113_Phoenix_Dragon.png": {
     "itemName": "Phoenix Dragon",
     "itemNumber": "C113",
     "itemPrice": "8"
   },
-  "C115_Dragon_Hatchling.jpg": {
+  "C115_Dragon_Hatchling.png": {
     "itemName": "Dragon Hatchling",
     "itemNumber": "C115",
     "itemPrice": "2"
