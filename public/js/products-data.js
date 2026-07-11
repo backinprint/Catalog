@@ -1,4 +1,4 @@
-window.PRODUCT_DATA = {
+﻿window.PRODUCT_DATA = {
   "C0004_Cowboy_Frog.png": {
     "itemName": "Cowboy Frog",
     "itemNumber": "C0004",
@@ -34,12 +34,17 @@ window.PRODUCT_DATA = {
     "itemNumber": "C011M",
     "itemPrice": "2"
   },
-  "C012_Quackodile.jpg": {
+  "C012_Quackodile.png": {
     "itemName": "Quackodile",
     "itemNumber": "C012",
     "itemPrice": "8"
   },
-  "C018_Gummy_Bear.jpg": {
+  "C016M_Tiny_TRex.png": {
+    "itemName": "Tiny TRex",
+    "itemNumber": "C016M",
+    "itemPrice": "10"
+  },
+  "C018_Gummy_Bear.png": {
     "itemName": "Gummy Bear",
     "itemNumber": "C018",
     "itemPrice": "1"
@@ -74,7 +79,7 @@ window.PRODUCT_DATA = {
     "itemNumber": "C032.70",
     "itemPrice": "5-8"
   },
-  "C035M_Rottweiler_Hatchling.jpg": {
+  "C035M_Rottweiler_Hatchling.png": {
     "itemName": "Rottweiler Hatchling",
     "itemNumber": "C035M",
     "itemPrice": "2"
@@ -84,22 +89,27 @@ window.PRODUCT_DATA = {
     "itemNumber": "C038M",
     "itemPrice": "5-15"
   },
-  "C103_Fire_Dragon_Hatchling.jpg": {
+  "C043_Tiny_Skeleton_TRex.png": {
+    "itemName": "Tiny Skeleton TRex",
+    "itemNumber": "C043",
+    "itemPrice": "8"
+  },
+  "C103_Fire_Dragon_Hatchling.png": {
     "itemName": "Fire Dragon Hatchling",
     "itemNumber": "C103",
     "itemPrice": "2"
   },
-  "C103M_Fire_Dragon_Hatchling_Multi.jpg": {
+  "C103M_Fire_Dragon_Hatchling_Multi.png": {
     "itemName": "Fire Dragon Hatchling Multi",
     "itemNumber": "C103M",
     "itemPrice": "5"
   },
-  "C105_80M_Small_Baby_Gemstone_Multi.jpg": {
+  "C105_80M_Small_Baby_Gemstone_Multi.png": {
     "itemName": "Small Baby Gemstone Multi",
     "itemNumber": "C105",
     "itemPrice": "15"
   },
-  "C107_Crystal_Tadling.jpg": {
+  "C107_Crystal_Tadling.png": {
     "itemName": "Crystal Tadling",
     "itemNumber": "C107",
     "itemPrice": "3"
@@ -124,29 +134,39 @@ window.PRODUCT_DATA = {
     "itemNumber": "C115",
     "itemPrice": "2"
   },
-  "C120_Jellyfish_Tadling.jpg": {
+  "C120_Jellyfish_Tadling.png": {
     "itemName": "Jellyfish Tadling",
     "itemNumber": "C120",
     "itemPrice": "5"
   },
-  "C309_Pumpkin_Egg.jpg": {
+  "C309_Pumpkin_Egg.png": {
     "itemName": "Pumpkin Egg",
     "itemNumber": "C309",
     "itemPrice": "8"
   },
-  "C310_Pumpkin.jpg": {
+  "C310_Pumpkin.png": {
     "itemName": "Pumpkin",
     "itemNumber": "C310",
     "itemPrice": "10"
   },
-  "K001_World_Cup_Trophy_Clicker.jpg": {
+  "G001_Ember_the_Flame.png": {
+    "itemName": "Ember the Flame",
+    "itemNumber": "G001",
+    "itemPrice": "3"
+  },
+  "G020_Chonkvyee.png": {
+    "itemName": "Chonkvyee",
+    "itemNumber": "G020",
+    "itemPrice": "8"
+  },
+  "G039_Orlo_the_Dino.png": {
+    "itemName": "Orlo the Dino",
+    "itemNumber": "G039.185",
+    "itemPrice": "25"
+  },
+  "K001_World_Cup_Trophy_Clicker.png": {
     "itemName": "World Cup Trophy Clicker",
     "itemNumber": "K001",
     "itemPrice": "3"
-  },
-  "X001_Double_Clicker.jpg": {
-    "itemName": "Double Clicker",
-    "itemNumber": "X001",
-    "itemPrice": "1.50"
   }
 };
