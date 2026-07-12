@@ -17,7 +17,7 @@
   "C003_Cowboy_Crab.png": {
     "itemName": "Cowboy Crab",
     "itemNumber": "C003",
-    "itemPrice": "25"
+    "itemPrice": "20"
   },
   "C005M_Seal_Hatchling.png": {
     "itemName": "Seal Hatchling",
