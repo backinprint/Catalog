@@ -44,6 +44,11 @@
     "itemNumber": "C016M",
     "itemPrice": "10"
   },
+  "C017M_Stegosaurus.png": {
+    "itemName": "Stegosaurus",
+    "itemNumber": "C017M",
+    "itemPrice": "3"
+  },
   "C018_Gummy_Bear.png": {
     "itemName": "Gummy Bear",
     "itemNumber": "C018",
@@ -93,6 +98,16 @@
     "itemName": "Tiny Skeleton TRex",
     "itemNumber": "C043",
     "itemPrice": "8"
+  },
+  "C048_Skeleton T-Rex Head Keychain.png": {
+    "itemName": "Skeleton T-Rex Head Keychain",
+    "itemNumber": "C048",
+    "itemPrice": "2"
+  },
+  "C102_Bamboo Tadling.png": {
+    "itemName": "Bamboo Tadling",
+    "itemNumber": "C102",
+    "itemPrice": "5"
   },
   "C103_Fire_Dragon_Hatchling.png": {
     "itemName": "Fire Dragon Hatchling",
