@@ -5,6 +5,7 @@
   "C003_Cowboy_Crab.png",
   "C005M_Seal_Hatchling.png",
   "C006M_Duck Hatchling.png",
+  "C010M_Axolotyl Hatchling.png",
   "C011M_Frog_Hatchlng.png",
   "C012_Quackodile.png",
   "C016M_Tiny_TRex.png",
@@ -30,11 +31,17 @@
   "C113_Phoenix_Dragon.png",
   "C115_Dragon_Hatchling.png",
   "C120_Jellyfish_Tadling.png",
+  "C202_Dumpling_Clicker.png",
   "C309_Pumpkin_Egg.png",
   "C310_Pumpkin.png",
   "G001_Ember_the_Flame.png",
+  "G004.230_Snub the Horned Chonk.png",
   "G020_Chonkvyee.png",
   "G039_Orlo_the_Dino.png",
-  "K001_World_Cup_Trophy_Clicker.png"
+  "K001_World_Cup_Trophy_Clicker.png",
+  "K002_Melted Ice Cream Cone Clicker.png",
+  "K003_Pencil_Double_Clicker.png",
+  "K008_Lego_Head_Clicker.png",
+  "P009_Hedgehog.png"
 ];
 

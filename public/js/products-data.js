@@ -29,6 +29,11 @@
     "itemNumber": "C006M",
     "itemPrice": "2"
   },
+  "C010M_Axolotyl Hatchling.png": {
+    "itemName": "Axolotyl Hatchling",
+    "itemNumber": "C010M",
+    "itemPrice": "2"
+  },
   "C011M_Frog_Hatchlng.png": {
     "itemName": "Frog Hatchling",
     "itemNumber": "C011M",
@@ -154,6 +159,11 @@
     "itemNumber": "C120",
     "itemPrice": "5"
   },
+  "C202_Dumpling_Clicker.png": {
+    "itemName": "Dumpling Clicker",
+    "itemNumber": "C202",
+    "itemPrice": "3"
+  },
   "C309_Pumpkin_Egg.png": {
     "itemName": "Pumpkin Egg",
     "itemNumber": "C309",
@@ -169,6 +179,11 @@
     "itemNumber": "G001",
     "itemPrice": "3"
   },
+  "G004.230_Snub the Horned Chonk.png": {
+    "itemName": "Snub the Horned Chonk",
+    "itemNumber": "G004.230",
+    "itemPrice": "20"
+  },
   "G020_Chonkvyee.png": {
     "itemName": "Chonkvyee",
     "itemNumber": "G020",
@@ -183,5 +198,25 @@
     "itemName": "World Cup Trophy Clicker",
     "itemNumber": "K001",
     "itemPrice": "3"
+  },
+  "K002_Melted Ice Cream Cone Clicker.png": {
+    "itemName": "Melted Ice Cream Cone Clicker",
+    "itemNumber": "K002",
+    "itemPrice": "5"
+  },
+  "K003_Pencil_Double_Clicker.png": {
+    "itemName": "Pencil Double Clicker",
+    "itemNumber": "K003",
+    "itemPrice": "5"
+  },
+  "K008_Lego_Head_Clicker.png": {
+    "itemName": "Lego Head Clicker",
+    "itemNumber": "K008",
+    "itemPrice": "3"
+  },
+  "P009_Hedgehog.png": {
+    "itemName": "Hedgehog",
+    "itemNumber": "P009",
+    "itemPrice": "2"
   }
 };
