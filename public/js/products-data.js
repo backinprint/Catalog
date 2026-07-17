@@ -159,6 +159,11 @@
     "itemNumber": "C115",
     "itemPrice": "2"
   },
+  "C118M_Classic Crystal Dragon.png": {
+    "itemName": "Classic Crystal Dragon",
+    "itemNumber": "C118M",
+    "itemPrice": "25"
+  },
   "C120_Jellyfish_Tadling.png": {
     "itemName": "Jellyfish Tadling",
     "itemNumber": "C120",

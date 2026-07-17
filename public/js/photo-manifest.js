@@ -31,6 +31,7 @@
   "C110_Baby_Ocean_Dragon.png",
   "C113_Phoenix_Dragon.png",
   "C115_Dragon_Hatchling.png",
+  "C118M_Classic Crystal Dragon.png",
   "C120_Jellyfish_Tadling.png",
   "C202_Dumpling_Clicker.png",
   "C309_Pumpkin_Egg.png",
