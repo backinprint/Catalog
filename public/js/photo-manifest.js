@@ -15,6 +15,7 @@
   "C023M_Tiny Bear.png",
   "C024_Guinea_Pig.png",
   "C025_Ice_Cream_Narwhal.png",
+  "C025_Tiny Pegasus Unicorn and Alicorn.png",
   "C030.80_USA_Eagle.png",
   "C032.70_Tiny_Wolf.png",
   "C035M_Rottweiler_Hatchling.png",
@@ -42,6 +43,7 @@
   "K002_Melted Ice Cream Cone Clicker.png",
   "K003_Pencil_Double_Clicker.png",
   "K008_Lego_Head_Clicker.png",
-  "P009_Hedgehog.png"
+  "P009_Hedgehog.png",
+  "P101_Reef Playset.png"
 ];
 

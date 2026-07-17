@@ -79,6 +79,11 @@
     "itemNumber": "C025",
     "itemPrice": "2"
   },
+  "C025_Tiny Pegasus Unicorn and Alicorn.png": {
+    "itemName": "Tiny Pegasus Unicorn and Alicorn",
+    "itemNumber": "C025",
+    "itemPrice": "15"
+  },
   "C030.80_USA_Eagle.png": {
     "itemName": "USA Eagle",
     "itemNumber": "C030.80",
@@ -218,5 +223,10 @@
     "itemName": "Hedgehog",
     "itemNumber": "P009",
     "itemPrice": "2"
+  },
+  "P101_Reef Playset.png": {
+    "itemName": "Reef Playset",
+    "itemNumber": "P101",
+    "itemPrice": "20"
   }
 };
