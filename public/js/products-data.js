@@ -94,6 +94,11 @@
     "itemNumber": "C032.70",
     "itemPrice": "5-8"
   },
+  "C034M_River Otter Hatchling.png": {
+    "itemName": "River Otter Hatchling",
+    "itemNumber": "C034M",
+    "itemPrice": "2"
+  },
   "C035M_Rottweiler_Hatchling.png": {
     "itemName": "Rottweiler Hatchling",
     "itemNumber": "C035M",
@@ -164,6 +169,11 @@
     "itemNumber": "C118M",
     "itemPrice": "25"
   },
+  "C119_Winged Wolf Dragon Tadling.png": {
+    "itemName": "Winged Wolf Dragon Tadling",
+    "itemNumber": "C119",
+    "itemPrice": "5"
+  },
   "C120_Jellyfish_Tadling.png": {
     "itemName": "Jellyfish Tadling",
     "itemNumber": "C120",
@@ -173,6 +183,11 @@
     "itemName": "Dumpling Clicker",
     "itemNumber": "C202",
     "itemPrice": "3"
+  },
+  "C303.60_Crystalized Egg.png": {
+    "itemName": "Crystalized Egg",
+    "itemNumber": "C303.60",
+    "itemPrice": "15"
   },
   "C309_Pumpkin_Egg.png": {
     "itemName": "Pumpkin Egg",
@@ -189,15 +204,45 @@
     "itemNumber": "G001",
     "itemPrice": "3"
   },
+  "G002_Ripple the Droplet Babychonk.png": {
+    "itemName": "Ripple the Droplet Babychonk",
+    "itemNumber": "G002",
+    "itemPrice": "3"
+  },
+  "G003_Sprout the Plant Babychonk.png": {
+    "itemName": "Sprout the Plant Babychonk",
+    "itemNumber": "G003",
+    "itemPrice": "3"
+  },
   "G004.230_Snub the Horned Chonk.png": {
     "itemName": "Snub the Horned Chonk",
     "itemNumber": "G004.230",
     "itemPrice": "20"
   },
+  "G005_Ponk the Punk Babychonk.png": {
+    "itemName": "Ponk the Punk Babychonk",
+    "itemNumber": "G005",
+    "itemPrice": "3"
+  },
+  "G011_Singe the Imp Babychonk.png": {
+    "itemName": "Singe the Imp Babychonk",
+    "itemNumber": "G011",
+    "itemPrice": "3"
+  },
+  "G019_Spark the Lightening Babychonk.png": {
+    "itemName": "Spark the Lightening Babychonk",
+    "itemNumber": "G019",
+    "itemPrice": "3"
+  },
   "G020_Chonkvyee.png": {
     "itemName": "Chonkvyee",
     "itemNumber": "G020",
     "itemPrice": "8"
+  },
+  "G024_Pudge the Tiger Beastchonk.png": {
+    "itemName": "Pudge the Tiger Beastchonk",
+    "itemNumber": "G024",
+    "itemPrice": "5"
   },
   "G039_Orlo_the_Dino.png": {
     "itemName": "Orlo the Dino",
@@ -224,6 +269,11 @@
     "itemNumber": "K008",
     "itemPrice": "3"
   },
+  "P003_Clownfish.png": {
+    "itemName": "Clownfish",
+    "itemNumber": "P003",
+    "itemPrice": "2"
+  },
   "P009_Hedgehog.png": {
     "itemName": "Hedgehog",
     "itemNumber": "P009",
@@ -233,5 +283,20 @@
     "itemName": "Reef Playset",
     "itemNumber": "P101",
     "itemPrice": "20"
+  },
+  "V001_Iguana Chibi.png": {
+    "itemName": "Iguana Chibi",
+    "itemNumber": "V001",
+    "itemPrice": "8"
+  },
+  "V002_Iguana.png": {
+    "itemName": "Iguana",
+    "itemNumber": "V002",
+    "itemPrice": "40"
+  },
+  "V102_Labrador Chibi.png": {
+    "itemName": "Labrador Chibi",
+    "itemNumber": "V102",
+    "itemPrice": "15"
   }
 };
