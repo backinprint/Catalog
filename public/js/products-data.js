@@ -84,6 +84,11 @@
     "itemNumber": "C025",
     "itemPrice": "15"
   },
+  "C029M_Tiny_Yeti.png": {
+    "itemName": "Tiny Yeti",
+    "itemNumber": "C029M",
+    "itemPrice": "5-10"
+  },
   "C030.80_USA_Eagle.png": {
     "itemName": "USA Eagle",
     "itemNumber": "C030.80",
@@ -149,6 +154,11 @@
     "itemNumber": "C108",
     "itemPrice": "25"
   },
+  "C109M_Baby_Pumpkin_Wyvern.png": {
+    "itemName": "Baby Pumpkin Wyvern",
+    "itemNumber": "C109M",
+    "itemPrice": "30"
+  },
   "C110_Baby_Ocean_Dragon.png": {
     "itemName": "Baby Ocean Dragon",
     "itemNumber": "C110",
@@ -169,8 +179,8 @@
     "itemNumber": "C118M",
     "itemPrice": "25"
   },
-  "C119_Winged Wolf Dragon Tadling.png": {
-    "itemName": "Winged Wolf Dragon Tadling",
+  "C119_Winged_Wolf_Dragon.png": {
+    "itemName": "Winged Wolf Dragon",
     "itemNumber": "C119",
     "itemPrice": "5"
   },
@@ -249,6 +259,16 @@
     "itemNumber": "G039.185",
     "itemPrice": "25"
   },
+  "G047_Plod_the_Axoloyl_Beastchonk.png": {
+    "itemName": "Plod the Axoloyl Beastchonk",
+    "itemNumber": "G047",
+    "itemPrice": "8"
+  },
+  "G048_Odie_the_Spartan_Chonk.png": {
+    "itemName": "Odie the Spartan Chonk",
+    "itemNumber": "G048",
+    "itemPrice": "8"
+  },
   "K001_World_Cup_Trophy_Clicker.png": {
     "itemName": "World Cup Trophy Clicker",
     "itemNumber": "K001",
@@ -264,6 +284,21 @@
     "itemNumber": "K003",
     "itemPrice": "5"
   },
+  "K004P_Halloween Bucket Clicker.png": {
+    "itemName": "Halloween Bucket Clicker",
+    "itemNumber": "K004P",
+    "itemPrice": "5"
+  },
+  "K004W_Halloween_Bucket_Clicker.png": {
+    "itemName": "Halloween Bucket Clicker",
+    "itemNumber": "K004W",
+    "itemPrice": "5"
+  },
+  "K005_Soccer_Ball_Clicker.png": {
+    "itemName": "Soccer Ball Clicker",
+    "itemNumber": "K005",
+    "itemPrice": "15"
+  },
   "K008_Lego_Head_Clicker.png": {
     "itemName": "Lego Head Clicker",
     "itemNumber": "K008",
@@ -274,15 +309,45 @@
     "itemNumber": "P003",
     "itemPrice": "2"
   },
+  "P005.MC_Fox with chickens.png": {
+    "itemName": "Fox with chickens",
+    "itemNumber": "P005.MC",
+    "itemPrice": "5"
+  },
   "P009_Hedgehog.png": {
     "itemName": "Hedgehog",
     "itemNumber": "P009",
+    "itemPrice": "2"
+  },
+  "P015_Yellow_Clown_Goby.png": {
+    "itemName": "Yellow Clown Goby",
+    "itemNumber": "P015",
+    "itemPrice": "2"
+  },
+  "P016_Flexi_Dwarf_Moray_Eel.png": {
+    "itemName": "Flexi Dwarf Moray Eel",
+    "itemNumber": "P016",
+    "itemPrice": "5"
+  },
+  "P017_Dachshund.png": {
+    "itemName": "Dachshund",
+    "itemNumber": "P017",
+    "itemPrice": "2"
+  },
+  "P018_Chihuahua.png": {
+    "itemName": "Chihuahua",
+    "itemNumber": "P018",
     "itemPrice": "2"
   },
   "P101_Reef Playset.png": {
     "itemName": "Reef Playset",
     "itemNumber": "P101",
     "itemPrice": "20"
+  },
+  "P201_Cauldron_Clicker.png": {
+    "itemName": "Cauldron Clicker",
+    "itemNumber": "P201",
+    "itemPrice": "3"
   },
   "V001_Iguana Chibi.png": {
     "itemName": "Iguana Chibi",
@@ -294,9 +359,34 @@
     "itemNumber": "V002",
     "itemPrice": "40"
   },
+  "V003.4C_Baby_Stegosaurus.png": {
+    "itemName": "Baby Stegosaurus",
+    "itemNumber": "V003.4C",
+    "itemPrice": "40"
+  },
+  "V004_Baby_Polar_Bear.png": {
+    "itemName": "Baby Polar Bear",
+    "itemNumber": "V004",
+    "itemPrice": "15"
+  },
+  "V007_Grim_Reaper_Chibi.png": {
+    "itemName": "Grim Reaper Chibi",
+    "itemNumber": "V007",
+    "itemPrice": "8"
+  },
   "V102_Labrador Chibi.png": {
     "itemName": "Labrador Chibi",
     "itemNumber": "V102",
     "itemPrice": "15"
+  },
+  "V201_Baby_Raptor_Magnet.png": {
+    "itemName": "Baby Raptor Magnet",
+    "itemNumber": "V201",
+    "itemPrice": "8"
+  },
+  "V206_Grim_Reaper_Magnet.png": {
+    "itemName": "Grim Reaper Magnet",
+    "itemNumber": "V206",
+    "itemPrice": "5"
   }
 };
